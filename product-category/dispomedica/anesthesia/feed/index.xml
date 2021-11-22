@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Anesthesia &#8211; Medika Supplies</title>
+	<atom:link href="/product-category/dispomedica/anesthesia/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Supply quality products to the medical industries</description>
+	<lastBuildDate>Tue, 04 Apr 2017 06:35:34 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>Peel-Away Introducer WITH SWIVEL NUT</title>
+		<link>/product/peel-away-introducer-with-swivel-nut/</link>
+		
+		<dc:creator><![CDATA[siaru1]]></dc:creator>
+		<pubDate>Tue, 04 Apr 2017 06:35:34 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=786</guid>
+
+					<description><![CDATA[<h2><b>Indication and Application</b></h2>
+<h5>for the percutaneous introduction of diagnostic and therapeutic catheters with long dwelling time, such as:</h5>
+<ul>
+ 	<li>permanent and temporary bipolar pacing electrodes</li>
+ 	<li>port catheters</li>
+ 	<li>urological catheters</li>
+</ul>]]></description>
+										<content:encoded><![CDATA[<p><img src='/wp-content/uploads/2017/04/showpic-1.jpg'></p><p>The splittable sheath may be completely removed after catheter placement without necessity to re-position the catheter. A swivel nut ensures a safe connection of dilator and sheath to prevent detachment during insertion.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Percutaneous Introducer Sets</title>
+		<link>/product/percutaneous-introducer-sets/</link>
+		
+		<dc:creator><![CDATA[siaru1]]></dc:creator>
+		<pubDate>Tue, 04 Apr 2017 06:30:35 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=784</guid>
+
+					<description><![CDATA[<h3><b>Indication and Application</b></h3>
+<h5>Venous introducers are intended for the percutaneous introduction of balloon-, temporary pacing-, and other catheters.</h5>]]></description>
+										<content:encoded><![CDATA[<p><img src='/wp-content/uploads/2017/04/showpic.jpg'></p><h2></h2>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

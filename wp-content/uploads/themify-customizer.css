@@ -1,0 +1,104 @@
+/* Themify Customize Styling */
+#headerwrap {	
+	background-color: #ffffff; 
+}
+#headerwrap.fixed-header, .transparent-header #headerwrap.fixed-header {	
+	background-color: #ffffff; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo {	
+	color: #03032e; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo img {		width: 150px;
+	height: 35px; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {		width: 150px;
+	color: #03032e; 
+}
+#site-logo {		position:relative;
+ 
+}
+#main-nav {		position:relative;
+ 
+}
+#main-nav a, #main-nav > li > a {	
+	color: #5e5e5e; 
+}
+#main-nav a:hover, #main-nav > li > a:hover {	
+	color: #b6b7bd; 
+}
+#main-nav .current_page_item a, #main-nav .current-menu-item a, #main-nav > .current_page_item > a, #main-nav > .current-menu-item > a {	
+	color: #5e5e5e; 
+}
+#main-nav .current_page_item a:hover,  #main-nav .current-menu-item a:hover {	
+	color: #b6b7bd; 
+}
+#footerwrap {	
+	background-color: #03032e; 
+}
+#footer {	
+	color: #fafafa; 
+}
+#footer a {	
+	color: #d6c5c5; 
+}
+
+/* Themify Custom CSS */
+.header-horizontal #header {
+
+  text-align: inherit;
+
+padding: 0em 0;
+
+}
+#searchform-wrap {
+
+  position:relative;
+
+top:5px;
+
+}
+ul li {
+    padding: 0px 1px;
+}
+.image-wrap {
+               text-align:center;
+               opacity:1;
+               -webkit-transition: opacity .25s ease;
+}
+.image-wrap:hover {
+opacity:1;
+}
+.fa-shopping-cart{
+display: none !important;
+}
+.related.products {
+display: none !important;
+}
+#tab-description > h2:nth-child(1) {
+display: none !important;
+}
+.products h3{
+font-size: 14px !important;
+}
+@media screen and (max-width: 976px) { /* Themify Customize Styling */
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo img {		width: 150px;
+	height: 35px; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {		width: 150px;
+	color: #03032e; 
+}
+ }@media screen and (max-width: 768px) { /* Themify Customize Styling */
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo img {		width: 150px;
+	height: 35px; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {		width: 150px;
+	color: #03032e; 
+}
+ }@media screen and (max-width: 480px) { /* Themify Customize Styling */
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo img {		width: 150px;
+	height: 35px; 
+}
+#site-logo, #site-logo a, .header-horizontal #site-logo, .header-minbar #site-logo, .header-leftpane #site-logo, .header-slide-out #site-logo, .boxed-compact #site-logo, .header-top-bar #site-logo a {		width: 150px;
+	color: #03032e; 
+}
+ }

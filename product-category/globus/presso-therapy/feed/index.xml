@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Presso Therapy &#8211; Medika Supplies</title>
+	<atom:link href="/product-category/globus/presso-therapy/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Supply quality products to the medical industries</description>
+	<lastBuildDate>Tue, 09 May 2017 07:29:50 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<item>
+		<title>PressCare G 300</title>
+		<link>/product/presscare-g-300/</link>
+		
+		<dc:creator><![CDATA[siaru1]]></dc:creator>
+		<pubDate>Tue, 09 May 2017 07:29:50 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=1204</guid>
+
+					<description><![CDATA[Ideal for:
+drainage - swollen legs and arms - water retention - cellulite - massages - heavy limbs
+
+Model with 3 programs of the new Globus pressotherapy line, suitable for wellness, beauty and relaxation needs.
+PressCare G300 is a lightweight and portable device that offers professional services.
+Mode A: according to the sequence of the program there will be an inflation and deflation of the boot one sector at a time, from the distal (foot or hand) toward the proximal part.
+Mode B: according to the sequence of the program there will be an inflation of two chambers at a time, simulating the function of the overlap boots.
+Mode C: the sequence of the program starts pressure from the feet and maintaining previous chambers inflated until the whole leg (or arm or abdomen) is inflated up to the groin.]]></description>
+										<content:encoded><![CDATA[<p><img src='/wp-content/uploads/2017/05/Pressoterapia-G300M.jpg'></p><p>TECHNICAL FEATURES<br />
+&#8211; 3 programs<br />
+&#8211; Pressure: 0~180mmHg±10%<br />
+&#8211; Timer up to 99 minutes<br />
+&#8211; Weight 2.4 kg<br />
+&#8211; Size: 185x140x190 mm</p>
+<p>ACCESSORIES ON DEMAND<br />
+&#8211; Battery kit<br />
+&#8211; sleeve, boot, abdominal/gluteus band<br />
+&#8211; boot/sleeve circumference extension</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>PressCare G200</title>
+		<link>/product/presscare-g200/</link>
+		
+		<dc:creator><![CDATA[siaru1]]></dc:creator>
+		<pubDate>Tue, 09 May 2017 07:27:48 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=1202</guid>
+
+					<description><![CDATA[Ideal for:
+drainage - swollen legs and arms - water retention - cellulite - massages - heavy limbs
+
+Model with 2 programs of the new Globus pressotherapy line, suitable for wellness, beauty and relaxation needs.
+PressCare G200 is a lightweight and portable device that offers professional services.
+Mode A: according to the sequence of the program there will be an inflation and deflation of the boot one sector at a time, from the distal (foot or hand) toward the proximal part.
+Mode B: according to the sequence of the program there will be an inflation of two chambers at a time, simulating the function of the overlap boots.]]></description>
+										<content:encoded><![CDATA[<p><img src='/wp-content/uploads/2017/05/Pressoterapia-G200M.jpg'></p><p>TECHNICAL FEATURES<br />
+&#8211; 2 programs<br />
+&#8211; Pressure: 0~180mmHg±10%<br />
+&#8211; Timer up to 99 minutes<br />
+&#8211; Weight 2.4 kg<br />
+&#8211; Size: 185x140x190 mm</p>
+<p>ACCESSORIES ON DEMAND<br />
+&#8211; Battery kit<br />
+&#8211; sleeve, boot,<br />
+abdominal/gluteus band<br />
+&#8211; boot/sleeve circumference<br />
+extension</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
